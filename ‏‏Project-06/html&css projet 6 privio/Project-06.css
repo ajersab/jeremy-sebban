@@ -66,12 +66,14 @@
   text-align: center;
   background-color: #393E46;
   padding-top: 70px;
+  
 }
 
 .content H1 {
   padding-right: 30px;
   color: #EEEEEE;
   text-shadow: 1px 1px 2px #00ADB5, 0 0 1em #393E46, 0 0 0.2em #00ADB5;
+  
 }
 
 .content p {
@@ -115,7 +117,7 @@
 }
 
 .myTechnologies>img {
-  width: 80px;
+  width: 50px;
 }
 
 
@@ -127,7 +129,7 @@
   padding-bottom: 20px;
 }
 .projectImg>img {
-  width: 60%;
+  width: 80%;
 }
 
 .btnResume:hover {
@@ -164,15 +166,17 @@
 
   .content {
     width: 100vw;
-    height: 40vh;
+    height: 45vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
   }
 
   .content p, h1 {
-    width: 90%;
+    width: 80vw;
+    justify-content: center;
+    align-items: center;
     
     
   }
