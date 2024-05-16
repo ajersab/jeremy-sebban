@@ -48,7 +48,8 @@
 .logo {
   height: 1.5rem;
   width: 1.5rem;
-  border-radius: 50%;
+  background-color: #fff;
+  border-radius: 20%;
   margin-left: 1rem;
 }
 
@@ -116,7 +117,7 @@
 }
 
 .myTechnologies>img {
-  width: 50px;
+  width: 80px;
 }
 
 

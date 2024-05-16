@@ -5,7 +5,7 @@
 }
 
 .container {
-    width: 70vw;
+    width: 60vw;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -41,6 +41,7 @@ p {
     font-size: 1em;
     color: #F9F9F9;
     text-align: center;
+    
 }
 
 .form {
@@ -75,6 +76,7 @@ label {
     display: flex;
     flex-direction: column;
     justify-content: start;
+    width: 90%;
 }
 
 input {
@@ -184,6 +186,9 @@ textarea {
         .text {
             width: 100vw;
         }
+        p {
+            width: 90%;
+        }
         img {
             width: 45vw;
             margin-left: 10px;
@@ -192,5 +197,6 @@ textarea {
             align-items: center;
             text-align: left;
         }
+
 
 }
