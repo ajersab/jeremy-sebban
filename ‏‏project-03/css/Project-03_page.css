@@ -9,7 +9,7 @@
     width: 100vw;
     height: 85vh;
     align-items: center;
-    background-image: url(/Img/project-03.png);
+    background-image: url(../../Img/project-03.png);
     background-position: center;
     background-size:cover;
     color: yellow;
